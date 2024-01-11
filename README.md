@@ -7,7 +7,7 @@
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 -🌱 I’m currently Studying in BCA 2nd year
 <br>
-- 📫 How to reach me **jaypaliwal237@gmail.com**
+- 📫 How to reach me:- jaypaliwal237@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
