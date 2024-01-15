@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/_jayy237" target="blank"><img src="https://img.shields.io/twitter/follow/_jayy237?logo=twitter&style=for-the-badge" alt="_jayy237" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
--🌱 I’m currently Studying in BCA 2nd year
+• 🧠 Studying in BCA 2nd year
 <br>
-- 📫 How to reach me:- jaypaliwal237@gmail.com
+• 🌱 I’m currently learning Frontend-Development
+<br>
+• 📫 How to reach me:- jaypaliwal237@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
