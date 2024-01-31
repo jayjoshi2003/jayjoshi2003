@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay Joshi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayyjoshi&label=Profile%20views&color=0e75b6&style=flat" alt="jayyjoshi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayyjoshi" alt="jayyjoshi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayjoshi2003" alt="jayyjoshi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_jayy237" target="blank"><img src="https://img.shields.io/twitter/follow/_jayy237?logo=twitter&style=for-the-badge" alt="_jayy237" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
