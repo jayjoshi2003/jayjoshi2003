@@ -6,8 +6,11 @@
 <p align="left"> <a href="https://twitter.com/_jayy237" target="blank"><img src="https://img.shields.io/twitter/follow/_jayy237?logo=twitter&style=for-the-badge" alt="_jayy237" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 - 🔭 I’m currently learning Frontend-Development
+<br>
 - 🌱 I’m Interested to work on Web 3.0
+<br>
 - 📫 How to reach me: jaypaliwal237@gmail.com
+<br>
 - ⚡ Fun fact: I'm currently studying BCA Computer Application
 
 <h3 align="left">Connect with me:</h3>
