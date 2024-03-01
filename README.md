@@ -5,11 +5,14 @@
 
 <p align="left"> <a href="https://twitter.com/_jayy237" target="blank"><img src="https://img.shields.io/twitter/follow/_jayy237?logo=twitter&style=for-the-badge" alt="_jayy237" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
-• 🧠 Studying in BCA 2nd year
-<br>
-• 🌱 I’m currently learning Frontend-Development
-<br>
-• 📫 How to reach me:- jaypaliwal237@gmail.com
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jay Joshi
+======================================================================================================================================
+
+
+- 🔭 I’m currently learning Frontend-Development
+- 🌱 I’m Interested to work on Web 3.0
+- 📫 How to reach me: jaypaliwal237@gmail.com
+- ⚡ Fun fact: I'm currently studying BCA Computer Application
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
