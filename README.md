@@ -6,11 +6,9 @@
 <p align="left"> <a href="https://twitter.com/jayjoshi2003" target="blank"><img src="https://img.shields.io/twitter/follow/jayjoshi2003?logo=twitter&style=for-the-badge" alt="jayjoshi2003" /></a> </p>
 - 🔭 I’m currently learning Frontend-Development
 <br>
-- 🌱 I’m Interested to work on Web 3.0
+- 🌱 Pursuing BCA, Computer Science
 <br>
 - 📫 How to reach me: jaypaliwal237@gmail.com
-<br>
-- ⚡: Pursuing BCA Computer Science
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
