@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayjoshi2003&label=Profile%20views&color=0e75b6&style=flat" alt="jayjoshi2003" /> </p>
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Jay Joshi</h1>
 - 🔭 I’m currently learning Frontend-Development
@@ -6,9 +5,6 @@
 - 🌱 Pursuing BCA, Computer Science
 <br>
 - 📫 How to reach me: jaypaliwal237@gmail.com
-<br>
-## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jayjoshi2003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-joshi-532797268) 
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
