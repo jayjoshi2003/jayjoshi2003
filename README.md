@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/jay-joshi-53279726](https://www.linkedin.com/in/jay-joshi-532797268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jayjoshi2003) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/jay-joshi-532797268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jayjoshi2003) 
 
 # ⚡ Connect with me:
 <p align="left">
